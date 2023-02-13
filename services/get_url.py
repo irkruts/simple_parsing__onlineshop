@@ -15,10 +15,10 @@ def get_url():
 
         response = requests.get(url, headers=headers)
 
-        soup = BeautifulSoup(response.text, 'lxml')
+        soup = BeautifulSoup(response.text, "lxml")
 
-        data = soup.find_all('div', class_="col-lg-4 col-md-6 mb-4")
+        data = soup.find_all("div", class_="col-lg-4 col-md-6 mb-4")
 
         for i in data:
-            card_url = "https://scrapingclub.com" + i.find('a').get("href")
+            card_url = "https://scrapingclub.com" + i.find("a").get("href")
             yield card_url
