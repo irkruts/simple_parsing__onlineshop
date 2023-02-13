@@ -52,5 +52,59 @@
     "price": "$59.99",
     "text": "Short, straight-cut dress in lace. Opening at back with concealed button at back of neck. Round neck, padded shoulders, and 3/4-length sleeves. Lined. 51% cotton, 25% nylon, 24% rayon. Machine wash cold.",
     "url_img": "https://scrapingclub.com/static/img/96643-A.jpg"
+  },
+  {
+    "name": "Short Dress",
+    "price": "$24.99",
+    "text": "Short dress in woven fabric. Round neckline and opening at back of neck with a button. Yoke at back with concealed pleats, long sleeves, and narrow cuffs with ties. Side pockets. 100% polyester. Machine wash cold.",
+    "url_img": "https://scrapingclub.com/static/img/90008-E.jpg"
+  },
+  {
+    "name": "Patterned Slacks",
+    "price": "$29.99",
+    "text": "Ankle-length slacks in patterned stretch cotton satin. Regular waist with concealed hook-and-eye fastener and zip fly. Side pockets and tapered legs with slits at hems. 61% cotton, 36% polyester, 3% spandex. Machine wash...",
+    "url_img": "https://scrapingclub.com/static/img/96436-A.jpg"
+  },
+  {
+    "name": "Short Chiffon Dress",
+    "price": "$49.99",
+    "text": "Short V-neck dress in plumeti chiffon. Gathers and small ruffle at shoulders, dropped shoulders, and long, wide sleeves with buttons at cuffs. Narrow, elasticized seam at waist and circle skirt with ruffled tiers. Lined. 100% polyester. Machine wash warm.",
+    "url_img": "https://scrapingclub.com/static/img/93926-B.jpg"
+  },
+  {
+    "name": "Off-the-shoulder Dress",
+    "price": "$59.99",
+    "text": "Short, fitted off-the-shoulder dress in stretch ribbed fabric. Short raglan sleeves, seam at waist with gently flared skirt. Unlined. 54% rayon, 44% nylon, 2% spandex. Machine wash warm.",
+    "url_img": "https://scrapingclub.com/static/img/90882-B.jpg"
+  },
+  {
+    "name": "V-neck Top",
+    "price": "$24.99",
+    "text": "Top in woven fabric with V-neck front and back. Narrow shoulder straps and decorative straps at back. 100% polyester. Machine wash cold.",
+    "url_img": "https://scrapingclub.com/static/img/93756-C.jpg"
+  },
+  {
+    "name": "Short Chiffon Dress",
+    "price": "$49.99",
+    "text": "Short V-neck dress in plumeti chiffon. Gathers and small ruffle at shoulders, dropped shoulders, and long, wide sleeves with buttons at cuffs. Narrow, elasticized seam at waist and circle skirt with ruffled tiers. Lined. 100% polyester. Machine wash warm.",
+    "url_img": "https://scrapingclub.com/static/img/93926-C.jpg"
+  },
+  {
+    "name": "V-neck Top",
+    "price": "$24.99",
+    "text": "Top in woven fabric with V-neck front and back. Narrow shoulder straps and decorative straps at back. 100% polyester. Machine wash cold.",
+    "url_img": "https://scrapingclub.com/static/img/93756-B.jpg"
+  },
+  {
+    "name": "V-neck Top",
+    "price": "$24.99",
+    "text": "Top in woven fabric with V-neck front and back. Narrow shoulder straps and decorative straps at back. 100% polyester. Machine wash cold.",
+    "url_img": "https://scrapingclub.com/static/img/93756-D.jpg"
+  },
+  {
+    "name": "Short Lace Dress",
+    "price": "$59.99",
+    "text": "Short, straight-cut dress in lace. Opening at back with concealed button at back of neck. Round neck, padded shoulders, and 3/4-length sleeves. Lined. 51% cotton, 25% nylon, 24% rayon. Machine wash cold.",
+    "url_img": "https://scrapingclub.com/static/img/96643-A.jpg"
   }
 ]
