@@ -9,7 +9,7 @@ headers = {"User-Agent": ua.random}
 
 
 def get_url():
-    for count in range(1, 2):
+    for count in range(1, 8):
 
         url = f"https://scrapingclub.com/exercise/list_basic/?page={count}"
 
